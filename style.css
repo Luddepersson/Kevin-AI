@@ -1,0 +1,27 @@
+body{
+    background-color: peachpuff;
+}
+
+.enter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+}
+
+.enterChat{
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+.kevin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 50%;
+    width: 50%;
+    
+}
